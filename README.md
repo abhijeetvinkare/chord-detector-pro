@@ -60,7 +60,7 @@ ChordDetector/
 
 ### 2. Clone & Install Dependencies
 ```bash
-git clone [https://github.com/YOUR_USERNAME/ChordDetector.git](https://github.com/YOUR_USERNAME/ChordDetector.git)
+[git clone [https://github.com/YOUR_USERNAME/ChordDetector.git](https://github.com/YOUR_USERNAME/ChordDetector.git)](https://github.com/abhijeetvinkare/chord-detector-pro.git)
 cd ChordDetector
 
 # Create and activate virtual environment (recommended)
