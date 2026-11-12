@@ -1,0 +1,21 @@
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# App Local Cache & Temporary Audio
+cached_audio/
+*.mp3
+*.wav
+*.m4a
+*.flac
+chord_history.json
+
+# OS & Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
